@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 #hide persoanl photos
-public/photos/
+#public/photos/
